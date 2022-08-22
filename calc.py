@@ -1,3 +1,4 @@
+# The number of characters shown on the result window is limited to 29
 from tkinter import *
 from math import sqrt
 
