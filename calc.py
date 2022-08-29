@@ -168,7 +168,6 @@ root = Tk()
 root.geometry("586x197")
 root.resizable(False, False)
 root.title("Calculator")
-root.iconbitmap("C:/Users/Admin/PycharmProjects/tkinter/calc_icon.ico")
 
 class Buttons:
     def __init__(self, text, cmd, r, c):
